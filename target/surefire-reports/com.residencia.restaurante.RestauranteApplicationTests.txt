@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.residencia.restaurante.RestauranteApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.17 s -- in com.residencia.restaurante.RestauranteApplicationTests
